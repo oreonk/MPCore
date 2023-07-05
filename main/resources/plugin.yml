@@ -1,0 +1,9 @@
+main: com.oreonk.MinePotionsCore
+name: MinePotionsCore
+version: 1
+api-version: 1.17
+commands:
+  mp:
+    description: "Основная команда"
+    usage: /potion *type* *nick*
+    permission: MpCore
